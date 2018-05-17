@@ -1,3 +1,4 @@
+#!/user/bin/python
 def rev_str(a_str):
     new_str = ''
     index   = len(a_str)
